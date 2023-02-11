@@ -2,6 +2,6 @@
 Aplicativo para listar e classificar fornecedores de HortFruit
 
 ## Tecnologias e Ferramentas utilizadas :robot:
-- [VSCode]()
-- [React Native CLI]()
+- [VSCode](https://code.visualstudio.com/)
+- [React Native CLI](https://reactnative.dev/docs/environment-setup)
 
