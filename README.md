@@ -1,4 +1,4 @@
-# Projeto Prod Hort :avocado: :broccoli:
+# Projeto Prod Hort :avocado:
 Aplicativo para listar e classificar produtores de HortFruit
 
 ## Tecnologias e Ferramentas utilizadas :robot:
