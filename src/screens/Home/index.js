@@ -1,7 +1,11 @@
-import {View, Text} from 'react-native';
 import Topo from '../../components/Topo';
-import styled from './styles';
+import React from 'react';
+import Produtores from '../../components/Produtores';
 
 export default function Home() {
-  return <Topo />;
+  return (
+    <>
+      <Produtores topo={Topo} />
+    </>
+  );
 }
